@@ -33,3 +33,6 @@ Fasilitas Siswa :
 - Pengisian token saat akan mengikuti ujian
 - Pelaksanaan ujian menggunakan CATMAN
 - Bisa melihat hasil ujian secara langsung
+
+Untuk DBase CAT ini bisa hubungi :
+085607113801 Free
