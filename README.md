@@ -34,5 +34,5 @@ Fasilitas Siswa :
 - Pelaksanaan ujian menggunakan CATMAN
 - Bisa melihat hasil ujian secara langsung
 
-Untuk DBase CAT ini bisa hubungi :
+Untuk dBase CAT ini bisa hubungi :
 085607113801 Free
