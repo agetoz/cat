@@ -34,5 +34,5 @@ Fasilitas Siswa :
 - Pelaksanaan ujian menggunakan CATMAN
 - Bisa melihat hasil ujian secara langsung
 
-Untuk dBase CAT ini bisa hubungi :
-085607113801 Free
+Untuk dBase CAT ini bisa email di :
+agetoz@yahoo.com Free
