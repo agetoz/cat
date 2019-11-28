@@ -37,4 +37,4 @@ Fasilitas Siswa :
 Untuk dBase CAT ini bisa email di :
 agetoz@yahoo.com Free
 
-*Donasi? Pulsa seikhlasnya aja.
+*Donasi? Pulsa seikhlasnya aja. (083112006203)
