@@ -35,6 +35,6 @@ Fasilitas Siswa :
 - Bisa melihat hasil ujian secara langsung
 
 Untuk dBase CAT ini bisa email di :
-agetoz@yahoo.com Free
+agetoz@yahoo.com
 
-*Donasi? Pulsa seikhlasnya aja. (083112006203)
+*Donasi? Seikhlasnya aja. (083112006203)
