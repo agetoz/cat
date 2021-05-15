@@ -37,4 +37,6 @@ Fasilitas Siswa :
 Untuk dBase CAT ini bisa email di :
 agetoz@yahoo.com
 
-*Donasi? Seikhlasnya aja.
+*Open Donasi :
+BSM Mandiri : 7137413978
+A/n : Giemza Bagus
