@@ -8,7 +8,7 @@ Untuk jenis-jenis penggunaan di aplikasi CAT ini di bagi 3, yaitu Admin, Guru, d
 Tingkatan Pengguna :
 1. Admin, merupakan level tertinggi dari aplikasi, bisa memanajemen data : guru/dosen, siswa, mata pelajaran, soal, melihat token ujian, mengganti token, lihat hasil ujian dan export hasil ujian.
 2. Guru mempunyai akses dan bisa memanajemen data : soal, daftar ujian, melihat token mapel yang di buat guru tersebut, melihat hasil ujian dan export hasil ujian.
-3. Siswa mempunya akses dan bisa mengikuti ujian sesuai dengan mata pelajaran yang di ikuti, yang diatur oleh level admin, dan melihat hasil ujian.
+3. Siswa mempunyai akses dan bisa mengikuti ujian sesuai dengan mata pelajaran yang di ikuti, yang diatur oleh level admin, dan melihat hasil ujian.
 
 Untuk fasilitas setiap pengguna di berikan sesuai dengan hak akses masing-masing yang bertujuan untuk mengontrol setiap menu di aplikasi CAT ini.
 
