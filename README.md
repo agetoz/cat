@@ -34,9 +34,5 @@ Fasilitas Siswa :
 - Pelaksanaan ujian menggunakan CAT
 - Bisa melihat hasil ujian secara langsung
 
-Untuk Database bs hubungi via :
-- email di agetoz@yahoo.com
-- Instagram @gigu.id
-
 OPEN DONASI (DONATE)
 *Khusus Donasi kita bantu install via Remote Dekstop/SSH
