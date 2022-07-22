@@ -33,6 +33,8 @@ Fasilitas Siswa :
 - Pengisian token saat akan mengikuti ujian
 - Pelaksanaan ujian menggunakan CAT
 - Bisa melihat hasil ujian secara langsung
+(Payment Application)
 
-OPEN DONASI (DONATE)
-*Khusus Donasi kita bantu install via Remote Dekstop/SSH
+Aplikasi ini ber-payment minimum (untuk ganti uang Listrik dan Kopi)
+- Untuk Donasi bisa kontak kami di @gigu.id (Instagram)
+- kita bantu install hingga tuntas
